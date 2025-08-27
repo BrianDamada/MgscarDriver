@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/driverMgscar.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/driverMgscar.dir/objects.a @CMakeFiles/driverMgscar.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -static -static-libgcc -static-libstdc++ -static -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles/driverMgscar.dir/objects.a -Wl,--no-whole-archive -o driverMgscar.exe -Wl,--out-implib,libdriverMgscar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/driverMgscar.dir/linkLibs.rsp

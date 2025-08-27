@@ -1,9 +1,0 @@
-D:\projetos\MGSCAR\code\driver\main.cpp;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\main.obj
-D:\projetos\MGSCAR\code\driver\src\libs\password\password.cpp;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\password.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serialCommunicator\serialCommunicator.cpp;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\serialCommunicator.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\impl\list_ports\list_ports_linux.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\list_ports_linux.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\impl\list_ports\list_ports_osx.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\list_ports_osx.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\impl\list_ports\list_ports_win.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\list_ports_win.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\impl\unix.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\unix.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\impl\win.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\win.obj
-D:\projetos\MGSCAR\code\driver\src\libs\serial\src\serial.cc;D:\projetos\MGSCAR\code\driver\build-win\driverMgscar.dir\Release\serial.obj

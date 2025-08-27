@@ -1,0 +1,20 @@
+{
+  "31A7027C": {
+    "nome": "Guilherme",
+    "sites": {
+      "google.com": {
+        "email": "email@example.com",
+        "username": "guilherme"
+      }
+    }
+  },
+  "5E23B989": {
+    "nome": "Brian",
+    "sites": {
+      "google.com": {
+        "email": "email@google.com",
+        "username": "username"
+      }
+    }
+  }
+}

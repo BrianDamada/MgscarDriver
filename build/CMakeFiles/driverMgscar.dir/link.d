@@ -3,8 +3,8 @@ driverMgscar: \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crti.o \
   /usr/lib/gcc/x86_64-redhat-linux/15/crtbegin.o \
   CMakeFiles/driverMgscar.dir/main.cpp.o \
-  CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o \
   CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o \
+  CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o \
   CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o \
   CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_osx.cc.o \
   CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_win.cc.o \
@@ -47,9 +47,9 @@ driverMgscar: \
 
 CMakeFiles/driverMgscar.dir/main.cpp.o:
 
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o:
-
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o:
+
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o:
 
 CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o:
 

@@ -86,24 +86,10 @@ CMakeFiles/driverMgscar.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/driverMgscar.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/main.cpp -o CMakeFiles/driverMgscar.dir/main.cpp.s
 
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: CMakeFiles/driverMgscar.dir/flags.make
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: CMakeFiles/driverMgscar.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o -MF CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o.d -o CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp
-
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp > CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i
-
-CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp -o CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s
-
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o: CMakeFiles/driverMgscar.dir/flags.make
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o: /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password/password.cpp
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o: CMakeFiles/driverMgscar.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o -MF CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o.d -o CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password/password.cpp
 
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.i: cmake_force
@@ -113,6 +99,20 @@ CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.i: cmake_force
 CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password/password.cpp -o CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.s
+
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: CMakeFiles/driverMgscar.dir/flags.make
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o: CMakeFiles/driverMgscar.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o -MF CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o.d -o CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp
+
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp > CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.i
+
+CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp -o CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.s
 
 CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o: CMakeFiles/driverMgscar.dir/flags.make
 CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o: /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_linux.cc
@@ -201,8 +201,8 @@ CMakeFiles/driverMgscar.dir/src/libs/serial/src/serial.cc.s: cmake_force
 # Object files for target driverMgscar
 driverMgscar_OBJECTS = \
 "CMakeFiles/driverMgscar.dir/main.cpp.o" \
-"CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o" \
 "CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o" \
+"CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o" \
 "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o" \
 "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_osx.cc.o" \
 "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_win.cc.o" \
@@ -214,8 +214,8 @@ driverMgscar_OBJECTS = \
 driverMgscar_EXTERNAL_OBJECTS =
 
 driverMgscar: CMakeFiles/driverMgscar.dir/main.cpp.o
-driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o
 driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o
+driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o
 driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o
 driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_osx.cc.o
 driverMgscar: CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_win.cc.o

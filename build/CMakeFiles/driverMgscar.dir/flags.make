@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator
+CXX_INCLUDES = -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator
 
 CXX_FLAGS = -std=gnu++17
 
