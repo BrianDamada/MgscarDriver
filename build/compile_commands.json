@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/main.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/main.cpp",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/main.cpp",
+  "output": "CMakeFiles/driverMgscar.dir/main.cpp.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator/serialCommunicator.cpp",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serialCommunicator/serialCommunicator.cpp.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password/password.cpp",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password/password.cpp",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/password/password.cpp.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_linux.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_linux.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_linux.cc.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_osx.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_osx.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_osx.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_osx.cc.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_win.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_win.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/list_ports/list_ports_win.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/list_ports/list_ports_win.cc.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/unix.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/unix.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/unix.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/unix.cc.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/win.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/win.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/impl/win.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/impl/win.cc.o"
+},
+{
+  "directory": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/build",
+  "command": "/usr/bin/c++  -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/password -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/include -I/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serialCommunicator -std=gnu++17 -o CMakeFiles/driverMgscar.dir/src/libs/serial/src/serial.cc.o -c /run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/serial.cc",
+  "file": "/run/media/briandamada/Maximus/projetos/MGSCAR/code/driver/src/libs/serial/src/serial.cc",
+  "output": "CMakeFiles/driverMgscar.dir/src/libs/serial/src/serial.cc.o"
+}
+]

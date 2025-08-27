@@ -1,0 +1,15 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\build-win",
+    "\\build-win\\Release"
+  ],
+  "SelectedNode": "\\build-win\\Release\\driverMgscar.exe",
+  "PreviewInSolutionExplorer": false
+}

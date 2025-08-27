@@ -1,0 +1,3 @@
+D:/projetos/MGSCAR/code/driver/build-win/CMakeFiles/driverMgscar.dir
+D:/projetos/MGSCAR/code/driver/build-win/CMakeFiles/ALL_BUILD.dir
+D:/projetos/MGSCAR/code/driver/build-win/CMakeFiles/ZERO_CHECK.dir
